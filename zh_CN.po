@@ -51,7 +51,7 @@ msgstr "删除记录失败。"
 msgid ""
 "Display a button in the sidebar of related documents to open a composition "
 "wizard"
-msgstr "添加批量编辑按钮和动作，并在相关视图进行显示。"
+msgstr "添加批量编辑按钮和动作，并在相关视图进行显示。22"
 
 #. module: mass_editing
 #: model:ir.model,name:mass_editing.model_ir_model_fields
