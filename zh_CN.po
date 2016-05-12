@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ddds\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-11 01:34+0000\n"
-"PO-Revision-Date: 2015-11-12 10:17+0800\n"
+"PO-Revision-Date: 2016-05-13 06:02+0800\n"
 "Last-Translator: haoyanfei <hao_user_001@qq.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/odoodd/ddds/"
 "language/zh_CN/)\n"
@@ -51,7 +51,7 @@ msgstr "删除记录失败。"
 msgid ""
 "Display a button in the sidebar of related documents to open a composition "
 "wizard"
-msgstr "添加批量编辑按钮和动作，并在相关视图进行显示"
+msgstr "添加批量编辑按钮和动作，并在相关视图进行显示。"
 
 #. module: mass_editing
 #: model:ir.model,name:mass_editing.model_ir_model_fields
